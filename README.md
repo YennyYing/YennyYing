@@ -8,14 +8,6 @@
 
 - 👯 I'm looking to collaborate on **open-source projects in data science, visualization, education tech, or climate analytics—especially those working with large datasets or LLM-based tools.**
 
-- 🤝 I'm looking for help with **skills in building clean, scalable data workflows.**
-
-- 💬 Ask me about **Python, R, React, Node.js
-
-Data cleaning, reproducible workflows, statistical inference, and visualization
-
-R Shiny, ggplot2, Leaflet, Pandas, NumPy, and text or geospatial analysis**
-
 - 📫 How to reach me **yennohyy@gmail.com**
 
 - ⚡ Fun fact **I have two twin brothers who are 14 years younger than me.**
