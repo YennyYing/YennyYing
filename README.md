@@ -2,8 +2,7 @@
 
 ### Applied Mathematics + Data Science @ UC Berkeley  
 
-- 🔭 I'm currently working on **data-driven applications that combine statistical modeling and visualization.**
-
+- 🔭 I'm currently studying at University of California,Berkeley
 - 🌱 I'm currently learning **more about machine learning evaluation, data workflows, and building scalable applications.**
 
 - 👯 I'm looking to collaborate on **open-source projects in data science, visualization, education tech, or climate analytics—especially those working with large datasets or LLM-based tools.**
